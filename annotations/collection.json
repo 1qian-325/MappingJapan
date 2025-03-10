@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://1qian-325.github.io/MappingJapan/annotations/SAS_MAP_2_ANNOTATIONS.json" ],
+  "@id" : "https://1qian-325.github.io/MappingJapan/annotations/collection.json",
+  "label" : "All annotations loaded in 1qian-325/MappingJapan project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
