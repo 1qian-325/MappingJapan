@@ -9,5 +9,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://1qian-325.github.io/MappingJapan/manifests/Map_2_ANNOTATIONS.json",
     "label" : "1:100,000 Scale Map of Manchuria and Siberia — No. 23: Jiamusi and Birobidzhan"
+  }, {
+    "id" : "https://1qian-325.github.io/MappingJapan/manifests/manifest.json",
+    "label" : {
+      "en" : [ "1:100,000 Scale Map of Manchuria and Siberia — No. 23: Jiamusi and Birobidzhan\n" ]
+    },
+    "type" : "Manifest"
   } ]
 }
